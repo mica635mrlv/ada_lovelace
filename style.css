@@ -16,6 +16,28 @@ h1 {
     font-weight: 300;
 }
 
+.principal {
+    margin: 0 auto;
+    max-width: 60%;
+}
+
+.principal a {
+    color: #FFF;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.principal li {
+    display: inline-block;
+    line-height: 2.5;
+    margin: 0 89px;
+}
+
+.principal ul {
+    background-color: #ff6cb5;
+    height: 40px;
+}
+
 h2 {
     color: #2A0074;
     font-size: 40px;
